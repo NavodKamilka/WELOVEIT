@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --small: Poppins;
+    --font-noto-sans: "Noto Sans";
+    --font-playfair-display-sc: "Playfair Display SC";
+  
+    /* font sizes */
+    --font-size-31xl: 50px;
+    --font-size-6xl: 25px;
+    --font-size-sm: 14px;
+    --small-size: 12px;
+    --font-size-mini: 15px;
+    --font-size-lg: 18px;
+    --font-size-8xl: 27px;
+    --font-size-xl: 20px;
+    --font-size-51xl: 70px;
+    --font-size-9xl: 28px;
+    --font-size-21xl: 40px;
+    --font-size-45xl: 64px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-darkgray-100: #9e9e9e;
+    --color-darkgray-200: #9b9b9b;
+    --alert-error: #ff1d0e;
+    --color-midnightblue-100: #111b73;
+    --color-midnightblue-200: #190357;
+    --color-darkslateblue: #404aa3;
+    --color-lavender-100: #d9dfef;
+    --color-darkslategray: #3c414e;
+  
+    /* Border radiuses */
+    --br-6xl: 25px;
+    --br-lgi: 19px;
+    --br-14xl: 33px;
+    --br-mini: 15px;
+  }
+  
